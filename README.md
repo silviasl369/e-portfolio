@@ -28,8 +28,28 @@ Projektet implementerar kommunikation mellan klient och server med TCP-sockets.
 ### Repository
 [Visa källkod](https://gits-15.sys.kth.se/orgs/IK1203VT26/teams/silviasl/repositories)
 
-### Laborationer i datorarkitektur
-Systemnära programmering i C och Assembly.
+# Rhythm Hero
+
+## Beskrivning
+Rhythm Hero är ett spel inspirerat av rytmbaserade spel där spelaren interagerar med musik och timingbaserad gameplay.
+
+## Kurs
+Mini Project
+
+## Tekniker
+- Java
+- Objektorienterad programmering
+- Spellogik
+- Git/GitHub
+
+## Funktionalitet
+- Poängsystem
+- Rytmbaserad input
+- Spel-loop
+- Händelsehantering
+
+## Repository
+[Visa källkod](https://github.com/silviasl369/Mini-Project_Rhythm-Hero)
 
 ---
 
