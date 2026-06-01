@@ -39,7 +39,7 @@ BashTeacher är en webbaserad plattform som hjälper användare att lära sig Ba
 
 ### Repository
 [Länk till repository](https://github.com/AxelRuSu/BashTeacher)
-[Länk till Spelet](bashteacher.com)
+Länk till spelet: https://bashteacher.com
 
 ---
 
