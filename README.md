@@ -9,8 +9,24 @@ Hej! Jag heter Silvia Sliwa och studerar Informationsteknik på KTH (år 2).
 
 ## Projekt
 
-### TCP Client/Server i Java
-Jag utvecklade ett TCP-baserat klient/server-program i Java med socketkommunikation.
+## TCP Client/Server i Java
+
+Kurs: IK1203
+
+Projektet implementerar kommunikation mellan klient och server med TCP-sockets.
+
+### Tekniker
+- Java
+- TCP/IP
+- Socket Programming
+
+### Vad jag lärde mig
+- Nätverkskommunikation
+- Klient/server-arkitektur
+- Felhantering
+
+### Repository
+[Visa källkod](https://gits-15.sys.kth.se/orgs/IK1203VT26/teams/silviasl/repositories)
 
 ### Laborationer i datorarkitektur
 Systemnära programmering i C och Assembly.
